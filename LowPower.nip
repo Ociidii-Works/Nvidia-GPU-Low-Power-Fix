@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>Low Power Fix by XenHat</ProfileName>
+    <Executeables>
+      <string>rsi launcher.exe</string>
+      <string>1password.exe</string>
+      <string>dropbox.exe</string>
+      <string>onedrive.exe</string>
+      <string>skydrive.exe</string>
+      <string>skydrive.exe</string>
+      <string>telegram.exe</string>
+      <string>sharex.exe</string>
+    </Executeables>
+    <Settings />
+  </Profile>
+</ArrayOfProfile>
