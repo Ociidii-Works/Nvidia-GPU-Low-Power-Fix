@@ -1,17 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-16"?>
 <ArrayOfProfile>
   <Profile>
     <ProfileName>Low Power Fix by XenHat</ProfileName>
     <Executeables>
-      <string>rsi launcher.exe</string>
       <string>1password.exe</string>
       <string>dropbox.exe</string>
       <string>onedrive.exe</string>
-      <string>skydrive.exe</string>
-      <string>skydrive.exe</string>
-      <string>telegram.exe</string>
+      <string>pythonw.exe</string>
+      <string>rsi launcher.exe</string>
       <string>sharex.exe</string>
+      <string>ShareX.exe</string>
+      <string>spotify.exe</string>
+      <string>sublime-text.exe</string>
+      <string>telegram.exe</string>
+      <string>Telegram.exe</string>
+      <string>windowsinternal.composableshell.experiences.textinput.inputapp.exe</string>
     </Executeables>
-    <Settings />
+    <Settings>
+      <ProfileSetting>
+        <SettingNameInfo>Power management mode</SettingNameInfo>
+        <SettingID>274197361</SettingID>
+        <SettingValue>0</SettingValue>
+      </ProfileSetting>
+    </Settings>
   </Profile>
 </ArrayOfProfile>
