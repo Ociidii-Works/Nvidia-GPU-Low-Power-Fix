@@ -13,6 +13,7 @@
       <string>spotify.exe</string>
       <string>sublime-text.exe</string>
       <string>Telegram.exe</string>
+      <string>parsec.exe</string>
       <string>windowsinternal.composableshell.experiences.textinput.inputapp.exe</string>
     </Executeables>
     <Settings>
