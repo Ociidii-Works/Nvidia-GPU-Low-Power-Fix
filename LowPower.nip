@@ -3,18 +3,23 @@
   <Profile>
     <ProfileName>Low Power Fix by XenHat</ProfileName>
     <Executeables>
-      <string>1password.exe</string>
+      <!-- Third-Party apps -->
       <string>Docker for Windows.exe</string>
       <string>dropbox.exe</string>
-      <string>onedrive.exe</string>
+      <string>parsec.exe</string>
       <string>pythonw.exe</string>
       <string>rsi launcher.exe</string>
       <string>ShareX.exe</string>
       <string>spotify.exe</string>
+      <string>steamwebhelper.exe</string>
       <string>sublime-text.exe</string>
       <string>Telegram.exe</string>
-      <string>parsec.exe</string>
-      <string>windowsinternal.composableshell.experiences.textinput.inputapp.exe</string>
+      <!-- Microsoft processes -->
+      <string>lockapp.exe</string>
+      <string>onedrive.exe</string>
+      <string>startmenuexperiencehost.exe</string>
+      <string>windowsinternal.exe</string>
+      <string>yourphone.exe</string>
     </Executeables>
     <Settings>
       <ProfileSetting>
