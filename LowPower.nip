@@ -10,9 +10,9 @@
       <string>pythonw.exe</string>
       <string>rsi launcher.exe</string>
       <string>ShareX.exe</string>
-      <string>spotify.exe</string>
       <string>sublime-text.exe</string>
       <string>Telegram.exe</string>
+      <string>WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe</string>
       <!-- Microsoft processes -->
       <string>onedrive.exe</string>
       <string>windowsinternal.exe</string>
