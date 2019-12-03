@@ -16,6 +16,7 @@
       <!-- Microsoft processes -->
       <string>onedrive.exe</string>
       <string>windowsinternal.exe</string>
+      <string>windowsterminal.exe</string>
     </Executeables>
     <Settings>
       <ProfileSetting>
