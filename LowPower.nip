@@ -17,12 +17,13 @@
       <string>onedrive.exe</string>
       <string>windowsinternal.exe</string>
       <string>windowsterminal.exe</string>
+      <string>code.exe</string>
     </Executeables>
     <Settings>
       <ProfileSetting>
         <SettingNameInfo>Power management mode</SettingNameInfo>
         <SettingID>274197361</SettingID>
-        <SettingValue>0</SettingValue>
+        <SettingValue>2</SettingValue>
       </ProfileSetting>
     </Settings>
   </Profile>
