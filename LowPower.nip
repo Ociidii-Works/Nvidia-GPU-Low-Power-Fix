@@ -1,29 +1,27 @@
-<?xml version="1.0" encoding="utf-16"?>
+﻿<?xml version="1.0" encoding="utf-16"?>
 <ArrayOfProfile>
   <Profile>
-    <ProfileName>Low Power Fix by XenHat</ProfileName>
+    <ProfileName>LowPower</ProfileName>
     <Executeables>
-      <!-- Third-Party apps -->
-      <string>Docker for Windows.exe</string>
-      <string>dropbox.exe</string>
-      <string>parsec.exe</string>
-      <string>pythonw.exe</string>
-      <string>rsi launcher.exe</string>
-      <string>ShareX.exe</string>
-      <string>sublime-text.exe</string>
-      <string>Telegram.exe</string>
-      <string>WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe</string>
-      <!-- Microsoft processes -->
-      <string>onedrive.exe</string>
       <string>windowsinternal.exe</string>
+      <string>sublime-text.exe</string>
+      <string>telegram.exe</string>
+      <string>sharex.exe</string>
+      <string>rsi launcher.exe</string>
+      <string>pythonw.exe</string>
       <string>windowsterminal.exe</string>
+      <string>parsecd.exe</string>
+      <string>onedrive.exe</string>
+      <string>dropbox.exe</string>
+      <string>docker for windows.exe</string>
       <string>code.exe</string>
     </Executeables>
     <Settings>
       <ProfileSetting>
         <SettingNameInfo>Power management mode</SettingNameInfo>
         <SettingID>274197361</SettingID>
-        <SettingValue>2</SettingValue>
+        <SettingValue>5</SettingValue>
+        <ValueType>Dword</ValueType>
       </ProfileSetting>
     </Settings>
   </Profile>
