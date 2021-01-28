@@ -11,6 +11,7 @@
       <string>pythonw.exe</string>
       <string>windowsterminal.exe</string>
       <string>parsecd.exe</string>
+      <string>parsec.exe</string>
       <string>onedrive.exe</string>
       <string>dropbox.exe</string>
       <string>docker for windows.exe</string>
